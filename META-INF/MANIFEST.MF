@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Project Cuttlefish | Zopfli
+Bundle-SymbolicName: com.divisors.projectcuttlefish.zopfli
+Bundle-Version: 1.0.0.alpha
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
